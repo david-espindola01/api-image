@@ -6,8 +6,8 @@
 **Fecha:** 20 de mayo de 2025
 
 ## 👥 Integrantes
-- Nombre Estudiante 1 - Código
-- Nombre Estudiante 2 - Código
+- DAVID LEONARDO ESPINDOLA NUÑEZ - 202128390
+- ANGEL SAMUEL GONZALES ZAMBRANO - 202212713
 
 ## 📋 Descripción
 
