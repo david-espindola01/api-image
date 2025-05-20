@@ -26,4 +26,4 @@ La aplicación utiliza un patrón controlador-vista (`MVC`) y está empaquetada 
 ### 1. Descargar la imagen
 
 ```bash
-docker pull davidespindola01/jsonplaceholder-viewer
+docker pull davidespindola01/json-placeholder-image
