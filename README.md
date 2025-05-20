@@ -27,3 +27,14 @@ La aplicación utiliza un patrón controlador-vista (`MVC`) y está empaquetada 
 
 ```bash
 docker pull davidespindola01/json-placeholder-image
+```
+
+### 2.  Crear contedor y probar
+
+```bash
+docker run -p 3000:3000 json-placeholder-image
+```
+### Acceso a la pagina
+Acceder a la pagina localhost:3000 y probar.
+
+
